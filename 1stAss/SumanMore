@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>CWC Assignment-1 </title>
+
+    </head>
+    <body>
+        <h1 style="text-align: center; font-size: 24px; color: red; margin-top: 20px;">Welcome to CWC Club</h1>
+        <hr color="red">
+        <p style="text-align: center;color: blue;font-size: 23px; ">Suman More</p>
+        <ol type="1" style="color:blue; font-size: 16px;">
+            <li> Registration no: 1941012777</li>
+            <li> Year: 2nd</li>
+            <li> Hobby: Painting ,Coding,Studying.</li>
+            <li> Achievement: Nothing much.</li>
+            <li> Date Of Birth: 25.07.2001</li>
+        </ol>
+     <img  style="display:block ;margin: 0 auto" src="Soa image.jpg">
+<p style="text-align:center; color: red;font-weight: bold;font-size: 25px;" ><q> After every sunset,<br>there comes new day.</q></p>
+  
+        
+    </body>
+
+</html>
